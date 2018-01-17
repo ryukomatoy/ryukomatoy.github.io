@@ -1,0 +1,11 @@
+@import url("main.css");
+#wrapper{
+	width: 1200px; 
+}
+body { font-size: 120%;
+}
+header{
+	background-color: rgb(255, 203, 107);
+}
+h1 {font-size: 130%;}
+
